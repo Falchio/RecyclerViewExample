@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="items">
+        <item>Погода на завтра: Москва - 3</item>
+        <item>Погода на послезавтра: Москва - 4</item>
+        <item>Погода через два дня: Москва - 5</item>
+    </string-array>
+</resources>
